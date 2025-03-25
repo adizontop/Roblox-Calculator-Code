@@ -1,0 +1,14 @@
+local function add(firstNumber, secondNumber)
+return firstNumber + secondNumber
+end
+local function subtract(firstNumber, secondNumber)
+return firstNumber - secondNumber
+end
+local function multiply(firstNumber, secondNumber)
+return firstNumber * secondNumber
+end
+local function divide(firstNumber, secondNumber)
+return firstNumber / secondNumber
+end
+
+-- Simple Calculator
