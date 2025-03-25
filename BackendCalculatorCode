@@ -11,4 +11,6 @@ local function divide(firstNumber, secondNumber)
 return firstNumber / secondNumber
 end
 
--- Simple Calculator
+-- This code allows for the calculator to work. 
+-- Another Part of this code is the Graphic User Interface (GUI)
+-- If you look at it good enough, you will find the code easy to understand. 
